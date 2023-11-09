@@ -3,9 +3,14 @@
 <body>
 
 <h2>File Upload</h2>
-<form action="http://localhost:8801/upload" method="post" enctype="multipart/form-data" accept-charset="UTF-8">
+<!--
+http://192.168.8.125:9010/kb/api/uploadZoneFile
+http://127.0.0.1:8801/upload
+-->
+<form action="http://192.168.6.81:8801/upload" method="post" enctype="multipart/form-data" accept-charset="UTF-8">
   Select file to upload:
   <input type="file" name="files" id="file" multiple="multiple" />
+  <input type="text" name="token"  placeholder="token" maxlength="128"/>
   <input type="submit" value="Upload" name="submit">
 </form>
 

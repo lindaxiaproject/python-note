@@ -3,6 +3,9 @@ import os
 
 app = Flask(__name__)
 
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8801)
+
 @app.route('/upload', methods=['POST'])
 def upload_files():
     # `request.files` 是一个字典，包含了所有上传的文件
@@ -11,9 +14,6 @@ def upload_files():
         # 写入到指定路径下
         file.save(os.path.join('./', file.filename))
     return 'Files uploaded successfully'
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8801)
 
 
 '''
