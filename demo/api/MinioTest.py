@@ -63,6 +63,7 @@ class Bucket:
 
         try:
             self.minioClient.fput_object(bucket_name=bucket_name,
+                                         content_type= 'image/png',
                                          object_name=file_name,
                                          file_path=file_path)
         except FileNotFoundError as err:
