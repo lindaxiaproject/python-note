@@ -1,0 +1,350 @@
+[
+    {
+        "api_name": "Keyword Difficulty Checker",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_b535d225-dfd9-4b62-b1fb-d72e7368aaaf",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Backlink Checker",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_f2321afa-10fb-4ef1-8a53-8cc3f5445ba1",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Website Traffic Checker",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_7757cad6-1366-43ca-aaea-fb2fa5e75897",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Google Keyword Generator",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_543b9417-02df-47ed-bb89-7d2be80d4831",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Website Authority Checker",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_16feb4ae-4507-4279-bae9-d8f379cabf4d",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Keyword Rank Checker",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_0f7afb34-f8c7-453f-9704-349666e0e79e",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Bing Keyword Generator",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_cb23f3a3-956e-42e5-adde-e9500ec3c6d1",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Broken Link Checker",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_0895f14f-bf19-4cd8-bc59-4377990ad3c8",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "SERP Checker",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_e27ce6ae-91eb-4d1a-af0c-cc83a74fca28",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "YouTube Keyword Generator",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_73e36850-dc89-4447-8d69-26bac9840c8a",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Amazon Keyword Generator",
+        "api_url": "https://rapidapi.com/Glavier/api/ahrefs1/playground/apiendpoint_dc521bac-a6a9-466d-a99b-e5d788159167",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Scrape Contacts from Website",
+        "api_url": "https://rapidapi.com/letscrape-6bRBa3QguO5/api/website-contacts-scraper/playground/apiendpoint_ee6b910e-3333-4dea-b4a2-0b21fe48427c",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Get Website by Keyword",
+        "api_url": "https://rapidapi.com/letscrape-6bRBa3QguO5/api/website-contacts-scraper/playground/apiendpoint_3f236e86-71cc-4c2c-87b0-4901fc16686c",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "[Depreciated] Query by Zipcodes Boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_e6122d00-3054-4730-a49f-d49f49c16f4b",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by Zipcode(s) for zipcode bondaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_9f0a2921-9f53-4f8a-8daa-5f7693ff6d4a",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by a FIPS for Zipcode boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/5a54c754e4b0d0474fe95f59",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by Radius(in miles) .for Zipcode boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/5936ac43e4b08ab68dbc3ba2",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by Location for Zipcode boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/5acdf8e6e4b0a62b51d0ebe1",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for State or Territories",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_2f54b948-08b0-4ce0-83bb-397cbd4f6208",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for United States Outline",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_49c69bd9-9431-42ea-aa12-3781b22268b9",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "(MEGA PLAN ONLY)Query for DMA Region Area Boundary",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_26e31c64-0f6c-45fe-9b64-43e706324ea7",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "(MEGA PLAN ONLY)Query for DMA Region Names by State",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_9e1dc976-2544-4a0c-8810-1663e3d1bacc",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for County Names By State",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_c1dc9893-e5ff-4cb8-af68-fd6ad5a827cb",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by for County boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_0ccbb7a0-3e72-4d54-834d-23c40ae501c6",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by Location for County boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_dca7ad24-fe22-4712-89e8-c2a2435a41bc",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by WKT(MultiPolygon or Polygon)",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_9fefa91b-1881-43d2-b884-6174f55c0fe9",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for  State Boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_e1a0ca1f-a146-4ae4-b9ca-1aa2d578be48",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by Location for State boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_a7ac6f62-b24e-4297-8fbc-6162268152c7",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Convert a a valid H3 Address as a Long Datatype value into a  H3 Address Hex",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_3ea0d1c9-5632-420a-965c-b98f5102e5af",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for H3 Hexagon by H3 Index(hex)",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_5f1705dd-6638-4770-ba1f-e543616baec7",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for H3 Hexagon by Location",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_d6017763-c419-4c5c-9195-9b0a646e5909",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for H3 Hexagon by H3 Index(Long)",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_de47b102-fb2a-4d83-8d33-1586ef1e0a9a",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for Distance u0026 Bearing Between two H3 Index(hex)",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_b6809d3c-6fb6-44bd-a234-884a28f5342d",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Convert a a valid H3 Address Hex value into a H3 Address as a Long Datatype.",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_f7a9ccd1-09f7-4387-a83c-ddca2f13efb8",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by Location for Neighborhood boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_4c9fc941-f771-4e9e-951d-2bd0b7848656",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for Neighborhood  by State with City, County",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_3ef0a621-adfc-4bf2-b556-9a5b52699765",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for Neighborhood by Name and State",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_54b6c3be-1a49-4537-b32b-174dddf1215c",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for Neighborhood Names by State",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_27db6a15-7ecc-42d5-8f66-a9676ffe6235",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Get Census Tract By Location",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_7a01968f-e8c6-4575-940b-f5e54b4b0b29",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Get Census Tract by GeoId",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_b78031c8-16ac-4575-88ce-5749b7f0998a",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Get Census Tracts by GeoIds",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_89a0a507-18e2-4a35-9670-6453734b34f8",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Get Census Tract by County",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_1b84f109-c8f0-4f9c-9952-0fd66b48d893",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Get County names by State.",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_becac2f3-ac99-45bd-b4f9-ea97a2a3bdd3",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query by Location for Place boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_b22e96f2-3655-4af8-a829-fbd991400b33",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for Place Names by State",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_2aa5694a-3f7d-40d7-93e2-948e42251055",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "Query for Place boundaries",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_1f061a65-36d6-4c80-9a15-b40cb0e738fb",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "(PRO Plan and above only) Query for multiple county boundaries.",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_56b6eb04-4be1-4c73-85df-1c15bef7747b",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "(PRO Plan and above) Query for up to 1000 zipcodes",
+        "api_url": "https://rapidapi.com/VanitySoft/api/boundaries-io-1/playground/apiendpoint_ef74855f-da68-43d1-9272-a5392b1c5930",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "face-analysis",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_f79852b5-c50b-4fac-ae3e-cef3d052c7a4",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "create-facial-repository",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_16f37283-40dd-42ac-88e5-903e42558c33",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "celebrity-recognition",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_d94847dd-00c6-434a-9dfb-d883d6c9512f",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "delete-facial-repository",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_3f331a72-5aa8-4fe0-b534-0b559c292813",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "compare-faces",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_cce7ec43-13f8-47f0-8735-ececbd5f8b5d",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "list-facial-repositories",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_ec931c60-bbd2-47c3-9a35-c1ca65c19fb0",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "save-faces-in-repository",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_1686d5a5-8547-42be-99fd-d14dd30bf480",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "list-repository-faces",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_701d6fce-e4c1-4e0f-9d42-70075de21194",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "delete-face-from-repository",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_2f6b3837-e123-4133-aec2-209e8252bd44",
+        "headless": false,
+        "save_path": "apis"
+    },
+    {
+        "api_name": "search-face-in-repository",
+        "api_url": "https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_0d5ac829-2fe2-47ea-9d66-1c172999dcb7",
+        "headless": false,
+        "save_path": "apis"
+    }
+]
