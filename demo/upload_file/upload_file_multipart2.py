@@ -4,23 +4,28 @@ import os
 
 app = Flask(__name__)
 
-# 确保上传目录存在
-upload_folder = './tmp'
-os.makedirs(upload_folder, exist_ok=True)
-
-
 @app.route('/upload', methods=['POST'])
 def upload_file():
-    
+    # 检查是否有 upload_file 参数
     if 'upload_file' not in request.files:
         return jsonify({"code": 500, "message": "No file part"}), 400
     file = request.files['upload_file']
 
+    # 检查是否有 authCode 参数
+    file_type = request.form.get('authCode')
+    print(f"[测试]authCode字段请求参数为：{file_type}")
+
+    # 如果用户没有选择文件，浏览器也会提交一个空的文件部分
     if file.filename == '':
         return jsonify({"code": 500, "message": "No selected file"}), 400
 
+    # 创建临时目录
+    upload_folder = './tmp'
+    os.makedirs(upload_folder, exist_ok=True)
+    print('成功创建临时目录 tmp')
+
     if file:
-        # 保存文件
+        # 保存文件到本地
         filename = secure_filename(file.filename)
         file_path = os.path.join(upload_folder, filename)
         file.save(file_path)
