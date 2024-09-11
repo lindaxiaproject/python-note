@@ -11,13 +11,17 @@ def upload_file():
         return jsonify({"code": 500, "message": "No file part"}), 400
     file = request.files['upload_file']
 
-    # 检查是否有 authCode 参数
-    file_type = request.form.get('authCode')
-    print(f"[测试]authCode字段请求参数为：{file_type}")
-
     # 如果用户没有选择文件，浏览器也会提交一个空的文件部分
     if file.filename == '':
         return jsonify({"code": 500, "message": "No selected file"}), 400
+
+
+    # 检查是否有 authCode 参数
+    authCode = request.form.get('authCode')
+    if not authCode:
+        return jsonify({"code": 500, "message": "authCode请求参数不能为空"}), 400
+
+    print(f"[测试]authCode字段请求参数为：{authCode}")
 
     # 创建临时目录
     upload_folder = './tmp'
