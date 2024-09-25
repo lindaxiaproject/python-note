@@ -1,29 +1,23 @@
-import argparse
-import base64
-import io
-import os
-import queue
-import random
-import re
-import time
-import traceback
-from datetime import date
-from typing import Union
+
 from pathlib import Path
 import requests
 
-#文本转语音CharTTS（服务器调用）
+
+
+'''
+    二、后端返回给前端(mp3)
+        (1) 大模型生成文件
+        (2) 调用此接口，文本转语音（ChatTTS） MP3格式
+'''
 def get_t2s_chartts():
 
-    #文本转语音服务地址
-    t2v_url = "http://192.168.8.125:28763/v1/tts"
+    t2v_url = "http://192.168.8.126:7863/v1/tts"
     # t2v_url = "http://127.0.0.1:8000/v1/tts"
-
     # 设置文件和参数
     params = {
-        "text": "人生如逆旅，我亦是行人！",
+        "text": "您好，今天是2024年9月24日星期三, 又是元气满满的一天。 肖艳妮要加油！",
         "spk": "female2",
-        "style": "chat",
+        "style": "chat_tts",
         "temperature": 0.3,
         "top_p": 0.5,
         "top_k": 20,
@@ -43,14 +37,14 @@ def get_t2s_chartts():
         print ( "t2s_chattts Request successful!" )
 
         # 保存音频
-        output_file = Path ( f'/Users/linhong/Desktop/output.mp3' )
+        output_file = Path ( f'./backend_output.mp3' )
         output_file.parent.mkdir ( parents=True, exist_ok=True )
         with open (output_file.as_posix(), 'wb' ) as f:
             f.write(response.content )
         print (f'{output_file=}' )
 
     else:
-        print ( f"t2s_chattts Request failed with status code {response.status_code}" )
+        print ( f"文本转（wav）语音失败 {response.status_code}" )
 
     return output_file.as_posix()
 

@@ -44,7 +44,7 @@ if __name__ == '__main__':
     data = {
         'apiKey':  'da255e96c0mshdb05a5ab25cd314p1cdaa6jsne7fe9d24aac2',
         'apiCommand': Base64UTIL.encode(api_command_by_txt),
-        'apiName': 'chat gpt detector',
+        'apiName': 'chat_tts gpt detector',
         'appName': 'AI Detection',
     }
 
